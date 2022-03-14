@@ -1,0 +1,530 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1449px) {
+
+
+    .hero-containt h3 {
+        font-size: 35px;
+        line-height: 51px;
+      }
+      .fund-title h3 {
+        margin-bottom: 8px;
+        font-size: 25px;
+      }
+      .fund-text h3 {
+        font-size: 16px;
+      }
+      .fund-text p {
+        font-size: 12px;
+      }
+      .single-wht-img {
+        width: 31.33%;
+      }
+
+
+
+    .web__slider .owl-nav button {
+	left: 0;
+}
+    
+ .web__slider .owl-next {
+	left: auto !important;
+	right: 0;
+}   
+    
+    
+    
+    
+    
+  .galary__active .owl-nav button {
+	position: absolute;
+	top: 58%;
+	transform: unset;
+	left: -58px;
+	font-size: 39px !important;
+	color: #000 !important;
+}  
+ .galary__active .owl-next {
+	left: auto !important;
+	right: -11%;
+}   
+    
+    .galary__lf {
+  padding-left: 57px;
+}
+    
+
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+
+    .hero-containt h3 {
+        font-size: 35px;
+        line-height: 51px;
+      }
+      .fund-title h3 {
+        margin-bottom: 8px;
+        font-size: 25px;
+      }
+      .fund-text h3 {
+        font-size: 16px;
+      }
+      .fund-text p {
+        font-size: 12px;
+      }
+      .single-wht-img {
+        width: 31.33%;
+      }
+      .hero-area {
+        padding-left: 20px;
+    }
+    .fund-img {
+        width: 49%;
+    }
+
+    .header-area .navbar-light .navbar-nav .nav-link {
+      color: gray;
+      text-transform: uppercase;
+      font-size: 12px !important;
+    }
+    .section-title h3 {
+        font-size: 40px;
+      }
+      .office-area.padd .section-title {
+        padding: 50px 0;
+      }
+      .retail-img {
+        width: 46%;
+      }
+      .single-retail-img h3 {
+        margin: 0;
+        margin-bottom: 10px;
+      }
+
+
+
+    
+        .web__slider .owl-nav button {
+	left: 0;
+}
+    
+ .web__slider .owl-next {
+	left: auto !important;
+	right: 0;
+}  
+    
+    
+    
+    
+    
+    
+   
+    
+    
+  .footer__area {
+	height: 320px;
+}  
+    
+    
+    
+    
+    
+ 
+    
+    
+    
+    .galary__active .owl-nav button {
+	position: absolute;
+	top: 58%;
+	transform: unset;
+	left: 0;
+	font-size: 40px !important;
+	color: #fff !important;
+	z-index: 999999;
+}  
+ .galary__active .owl-next {
+	left: auto !important;
+	right: -64%;
+}   
+ .galary__fx {
+	width: 100%;
+	margin: auto;
+}   
+ .owl-dots {
+	display: none;
+}   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+
+    .hero-containt h3 {
+        font-size: 27px;
+        line-height: 38px;
+      }
+      .fund-title h3 {
+        margin-bottom: 8px;
+        font-size: 25px;
+      }
+      .fund-text h3 {
+        font-size: 16px;
+      }
+      .fund-text p {
+        font-size: 12px;
+      }
+      .single-wht-img {
+        width: 31.33%;
+      }
+      .hero-area {
+        padding-left: 20px;
+        height: 384px;
+    }
+    .fund-img {
+        width: 69%;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+
+
+.fund-fl {
+  flex-wrap: wrap;
+}
+.fund-left {
+  order: 2;
+  margin-top: 20px;
+  margin: auto;
+  width: 65% !important;
+}
+.why-title h3 {
+  font-size: 28px;
+}
+.footer-text h3 {
+  font-size: 30px;
+}
+
+
+
+
+
+.section-title h3 {
+    font-size: 33px;
+  }
+  .office-area.padd .section-title {
+    padding: 50px 0;
+  }
+  .retail-img {
+    width: 46%;
+  }
+  .single-retail-img h3 {
+    margin: 0;
+    margin-bottom: 10px;
+  }
+
+
+.retail-containt {
+  width: 49%;
+}
+
+
+
+    
+    
+      .web__slider .owl-nav button {
+	left: 0;
+}
+    
+ .web__slider .owl-next {
+	left: auto !important;
+	right: 0;
+}    
+    
+    
+    
+    
+  
+    
+    
+     .footer__area {
+	height: 300px;
+}  
+    
+    
+    
+    
+ 
+    
+    
+       
+    .galary__active .owl-nav button {
+	position: absolute;
+	top: 58%;
+	transform: unset;
+	left: -80px;
+	font-size: 40px !important;
+	color: #fff !important;
+	z-index: 999999;
+}  
+ .galary__active .owl-next {
+	left: auto !important;
+	right: -80px;
+}   
+ .galary__fx {
+	width: 100%;
+	margin: auto;
+	display: block;
+}   
+ .owl-dots {
+	display: none;
+}   
+   .galary__lf {
+	width: 48%;
+	margin: auto;
+       margin-bottom: 30px;
+}  
+.galary__ri {
+	width: 60%;
+	text-align: center;
+	margin: auto;
+}    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+}
+ 
+
+/* SM Small Device :320px. */
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+
+
+
+    .hero-containt h3 {
+        font-size: 27px;
+        line-height: 38px;
+      }
+      .fund-title h3 {
+        margin-bottom: 8px;
+        font-size: 20px;
+        /*! text-align: center; */
+      }
+      .fund-text h3 {
+        font-size: 14px;
+      }
+      .fund-text p {
+        font-size: 12px;
+      }
+      .single-wht-img {
+        width: 31.33%;
+      }
+      .hero-area {
+        padding-left: 15px;
+        height: 384px;
+        padding-top: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding-right: 15px;
+        background-position: center left;
+    }
+    .fund-img {
+        width: 100%;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+
+
+.fund-fl {
+  flex-wrap: wrap;
+}
+.fund-left {
+  order: 2;
+  margin-top: 20px;
+  margin: auto;
+  width: 100% !important;
+}
+.why-title h3 {
+  font-size: 20px;
+  line-height: 33px;
+}
+.footer-text h3 {
+  font-size: 30px;
+}
+
+
+.hero-containt {
+  width: 100%;
+}
+.fund-containt-fl {
+  flex-wrap: wrap;
+}
+.fund-text {
+  margin-bottom: 10px;
+}
+.fund-area {
+  padding-bottom: 60px !important;
+  padding-top: 0 !important;
+}
+.hero-area {
+  margin-bottom: 60px;
+}
+.why-area {
+	padding-top: 0px !important;
+}
+
+
+
+
+
+
+.section-title h3 {
+    font-size: 25px;
+  }
+  .office-area.padd .section-title {
+    padding: 15px 0;
+  }
+  .retail-img {
+    width: 100%;
+  }
+  .single-retail-img h3 {
+    margin: 0;
+    margin-bottom: 10px;
+  }
+
+
+.retail-containt {
+  width: 100%;
+  order: 2;
+  margin-top: 40px;
+}
+
+.retail-fl {
+  flex-wrap: wrap;
+}
+
+.office-hero-area {
+    height: 250px;
+  }
+  .office-hero-area img {
+    height: 100%;
+    object-fit: cover;
+  }
+
+
+  .office-work {
+    flex-wrap: wrap;
+  }
+  .single-office-work {
+    width: 49%;
+  }
+
+
+     .footer__area {
+	height: auto;
+	padding: 50px 0;
+	text-align: center;
+}  
+.footer__text h3 {
+	font-size: 22px;
+	color: #fff;
+	font-weight: 500;
+	margin-bottom: 16px;
+}  
+
+    
+    
+    
+    
+    
+         
+    .galary__active .owl-nav button {
+	position: absolute;
+	top: 58%;
+	transform: unset;
+	left: -80px;
+	font-size: 40px !important;
+	color: #fff !important;
+	z-index: 999999;
+}  
+ .galary__active .owl-next {
+	left: auto !important;
+	right: -80px;
+}   
+ .galary__fx {
+	width: 100%;
+	margin: auto;
+	display: block;
+}   
+ .owl-dots {
+	display: none;
+}   
+   .galary__lf {
+	width: 60%;
+	margin: auto;
+       margin-bottom: 30px;
+}  
+.galary__ri {
+	width: 100%;
+	text-align: center;
+	margin: auto;
+}  
+  .galary__content h4 {
+	font-size: 24px;
+	color: #fff;
+	font-weight: 500;
+	margin-bottom: 13px;
+}
+ .galary__content p {
+	font-size: 14px;
+	color: #fff;
+	margin: 0;
+}   
+   .modal-content button span {
+	color: #ffff;
+	position: absolute;
+	top: -20%;
+	right: 24px;
+	z-index: 99999;
+	font-size: 38px;
+} 
+    
+    
+    
+    
+    
+    
+    
+
+
+
+}
+
+
+
+
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+ 
+}
